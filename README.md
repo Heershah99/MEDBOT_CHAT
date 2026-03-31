@@ -37,17 +37,15 @@ https://huggingface.co/spaces/kzsnlsa/MEDBOT_CHAT
 
 ## 📂 Project Structure
 MEDBOT_CHAT/
-│
-├── model/ # Fine-tuned model files
-│ ├── adapter_model.safetensors
-│ ├── adapter_config.json
-│ ├── tokenizer.json
-│ └── tokenizer_config.json
-│
-├── app.py # Main Flask app
-├── requirements.txt # Dependencies
-├── Dockerfile # Docker setup
-├── README.md # Project documentation
+
+model/ # Fine-tuned model files
+-> adapter_model.safetensors
+-> adapter_config.json
+-> tokenizer.json
+-> tokenizer_config.json
+   
+app.py # Main Flask app , requirements.txt # Dependencies , Dockerfile # Docker setup
+, README.md # Project documentation
 
 
 ---
