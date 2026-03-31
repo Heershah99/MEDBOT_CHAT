@@ -1,0 +1,7 @@
+transformers>=4.40.0
+git+https://github.com/huggingface/peft.git@eaecab993365da1c939347155a961bc00168d672
+accelerate>=0.34.0
+flask==2.3.3
+safetensors
+sentencepiece
+bitsandbytes
