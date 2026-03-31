@@ -52,11 +52,11 @@ app.py # Main Flask app , requirements.txt # Dependencies , Dockerfile # Docker 
 
  ## How It Works
 
-User sends a medical query
-Flask API receives the request
-Fine-tuned LLM processes the input
-Model generates a response
-Response is returned to the user
+User sends a medical query,
+Flask API receives the request,
+Fine-tuned LLM processes the input,
+Model generates a response,
+Response is returned to the user,
 
 ---
 ## Deployment
